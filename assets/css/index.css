@@ -101,3 +101,14 @@ nav {
 .shrikhand {
   font-family: "Shrikhand", cursive;
 }
+
+/* footer */
+footer {
+  background-color: #36454f;
+  width: 100vw;
+}
+
+/* placeholder zone */
+#underConstruction {
+  background-color: grey;
+}
